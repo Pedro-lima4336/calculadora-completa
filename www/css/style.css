@@ -1,0 +1,29 @@
+.linha{
+margin-top: 10px;
+}
+
+
+.linha button{
+ font-size: 25px;
+}
+
+#somar{
+  height: 60px;
+  width: 60px;
+}
+
+#multiplicar{
+  height: 60px;
+  width: 60px;
+}
+
+#subtrair{
+ height: 60px;
+  width: 60px;
+}
+
+#divisao{
+  height: 60px;
+  width: 60px;
+}
+
